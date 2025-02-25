@@ -2,7 +2,7 @@
 
 
 # Simulation Architecture
-Implements a client-server model using CARLA's Python API (0.9.X+)
+Implements a client-server model using CARLA's Python API (0.10.0)
 
 Utilizes CARLA's Traffic Manager for autonomous agent coordination with configurable safety margins (2m following distance)
 
