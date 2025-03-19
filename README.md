@@ -62,10 +62,11 @@ This implementation demonstrates a closed-loop perception system for autonomous 
 
 # Video Demonstration
 
-NOTE: Due to low system specs, the approach to take video is not standard
+NOTE: Due to low system specs, the video quality is low and there are small lags
+
+https://github.com/user-attachments/assets/151b5afd-c750-4cfe-82fa-93933d20130d
 
 
-https://github.com/user-attachments/assets/556b961a-58df-4749-9b39-4248365f1f94
 
 
 # RADAR VISUALIZATION
